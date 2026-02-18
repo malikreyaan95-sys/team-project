@@ -1,1 +1,1 @@
-# team-project
+# team-mini-project
